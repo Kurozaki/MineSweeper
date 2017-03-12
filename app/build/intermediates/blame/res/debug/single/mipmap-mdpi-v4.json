@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\ADTFile\\MineSweeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\ADTFile\\MineSweeper\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ADTFile\\MineSweeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\src_mine.png",
+        "source": "F:\\ADTFile\\MineSweeper\\app\\src\\main\\res\\mipmap-mdpi\\src_mine.png"
+    },
+    {
+        "merged": "F:\\ADTFile\\MineSweeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\src_flag.png",
+        "source": "F:\\ADTFile\\MineSweeper\\app\\src\\main\\res\\mipmap-mdpi\\src_flag.png"
+    },
+    {
+        "merged": "F:\\ADTFile\\MineSweeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\src_board.jpg",
+        "source": "F:\\ADTFile\\MineSweeper\\app\\src\\main\\res\\mipmap-mdpi\\src_board.jpg"
+    },
+    {
+        "merged": "F:\\ADTFile\\MineSweeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\src_btn.jpg",
+        "source": "F:\\ADTFile\\MineSweeper\\app\\src\\main\\res\\mipmap-mdpi\\src_btn.jpg"
+    }
+]
