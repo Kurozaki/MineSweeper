@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/background_dark"
+                android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/level_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/custom_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/level_setting"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/setting_col"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="columns count"
+            android:inputType="number"/>
+
+        <EditText
+            android:id="@+id/setting_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="row count"
+            android:inputType="number"/>
+
+        <EditText
+            android:id="@+id/setting_mine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="mine count"
+            android:inputType="number"/>
+
+        <Button
+            android:id="@+id/custom_OK_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="#0000"
+            android:padding="8dp"
+            android:text="  OK  "
+            android:textColor="@android:color/white"
+            android:textSize="18dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/game_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"
+        android:textColor="@android:color/white"/>
+
+</RelativeLayout>

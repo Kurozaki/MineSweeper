@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThinkPad\.android\build-cache\8fff33fb04577b5ebf9f8216a3982293b84d7617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\ADTFile\MineSweeper\app\build\intermediates\pre-dexed\debug\classes_f924e640cb128f916a42b74a27471e14170c3042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThinkPad\.android\build-cache\43a7e0cd2be51d8260b8d19698288652102ff32c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\ADTFile\MineSweeper\app\build\intermediates\pre-dexed\debug\classes_1127c4c8746a348b0f4a82880db073ec6237b310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThinkPad\.android\build-cache\9c1bdce6d9c45cccb120e587605edd0e21fbce17\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\ADTFile\MineSweeper\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_fd671bab06300cb27a40a1c6f028a0f7875d793a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThinkPad\.android\build-cache\9c1bdce6d9c45cccb120e587605edd0e21fbce17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\ADTFile\MineSweeper\app\build\intermediates\pre-dexed\debug\classes_6b2a50bcefff5f02a23a760ff8baeb414be1a9db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThinkPad\.android\build-cache\32dea545b5e0241546a03c3e6eebed00c4acd1be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\ADTFile\MineSweeper\app\build\intermediates\pre-dexed\debug\classes_218224771384394acee0501fee4c5b84dd337d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\ADTFile\MineSweeper\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_0289926da4e0bb5f9a77663840dcfff91285de18.jar" />
+    </item>
+
+</items>

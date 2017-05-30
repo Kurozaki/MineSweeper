@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\ADTFile\\MineSweeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\src_mine.png",
+        "source": "F:\\ADTFile\\MineSweeper\\app\\src\\main\\res\\mipmap-xxhdpi\\src_mine.png"
+    },
+    {
+        "merged": "F:\\ADTFile\\MineSweeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\ADTFile\\MineSweeper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ADTFile\\MineSweeper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\src_flag.png",
+        "source": "F:\\ADTFile\\MineSweeper\\app\\src\\main\\res\\mipmap-xxhdpi\\src_flag.png"
+    }
+]
